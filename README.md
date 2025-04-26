@@ -166,22 +166,32 @@ plt.show()
 
 ## Output:
 ### i)Image Translation
-![image](https://github.com/user-attachments/assets/7fd99085-368b-4a75-bb7f-51d17f5957d4)
+![image](https://github.com/user-attachments/assets/b40383c9-1f5c-4205-b29a-0f88944ef4a3)
+
+
 
 ### ii) Image Scaling
-![image](https://github.com/user-attachments/assets/c149b3e9-851f-41ab-b817-de439d89a35a)
+![image](https://github.com/user-attachments/assets/59fc60f0-d19a-4c1f-aae8-b02680223381)
+
+
 
 ### iii)Image shearing
-![image](https://github.com/user-attachments/assets/eab7fe5e-d2fe-4cd0-8346-140115090b13)
+![image](https://github.com/user-attachments/assets/cc0f127c-aa21-45f3-b9a4-a57bd0585ef2)
+
+
 
 ### iv)Image Reflection
-![image](https://github.com/user-attachments/assets/3c499bd5-597b-4c56-9ecf-d0a50971f83c)
+![image](https://github.com/user-attachments/assets/19c0788d-6b20-47c1-8f42-cdc37a0c888a)
+
+
 
 ### v)Image Rotation
-![image](https://github.com/user-attachments/assets/238922b3-2cf5-4cc1-b65f-e17d9a0dbb9f)
+![image](https://github.com/user-attachments/assets/5cd5851b-d241-4eb7-9453-e6f964b2af76)
+
 
 ### vi)Image Cropping
-![image](https://github.com/user-attachments/assets/1411838a-1d87-42b5-8329-2c6c48abae44)
+![image](https://github.com/user-attachments/assets/9c72558d-22df-413c-a48b-a8e4b6316a56)
+
 
 ## Result: 
 
